@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield 7 Segment Display
-# ASD2421 Rev1
+# ASD2421 Rev2
 
-These are the design files for the TinyCircuits ASD2421 Rev 1 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm) that has two seven segment displays (Red LEDs).  
+The design files are located under design_files/ for the TinyCircuits ASD2421 Rev 2 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm) that has two seven segment displays (Red LEDs).  
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-7-segment-display.html
+For more infomation on this, check out the product page at TinyCircuits.com:  https://tinycircuits.com/collections/leds-displays/products/7-segment-display-tinyshield
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
