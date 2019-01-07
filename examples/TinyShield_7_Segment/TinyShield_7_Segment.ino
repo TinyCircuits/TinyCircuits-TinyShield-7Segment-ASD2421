@@ -1,3 +1,18 @@
+/*
+  TinyCircuits 7 Segment Display TinyShield Example Sketch
+  
+  This sketch demonstrates the functionality of the display by
+  counting down from 5, flashing "00" five times, then toggles
+  the decimal segments indefinitely.
+
+  Written 
+  By 
+  Modified 07 January 2019
+  By Hunter Hykes
+
+  https://TinyCircuits.com
+*/
+
 #include <Wire.h>
 #include "Tiny7Seg.h"
 
